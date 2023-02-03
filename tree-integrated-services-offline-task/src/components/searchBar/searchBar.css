@@ -1,0 +1,21 @@
+.outer-div {
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 12px;
+    padding: 10px;
+}
+
+.search-input {
+    width: 100%;
+    outline: none;
+    border: 0px;
+    margin-bottom: 1px;
+}
+
+hr {
+    margin-top: 0px;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}

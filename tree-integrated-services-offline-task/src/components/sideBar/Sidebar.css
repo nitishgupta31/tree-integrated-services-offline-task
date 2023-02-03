@@ -1,0 +1,36 @@
+.categories
+{
+    padding: 30px 10px;
+    color: white;
+}
+.categories:hover
+{
+    background-color: grey;
+}
+.logo
+{
+    padding-right: 20px;
+    color: white;
+}
+.tree
+{
+    color: white;
+    margin-bottom: 0px;
+}
+.greens
+{
+    margin-top: 0px;
+}
+.sidebar-section
+{
+    background-color: black;
+    height: 200vh;
+    width: 100%;
+}
+.company-name
+{
+    color: green;
+    margin: 0 auto;
+    padding: 10px;
+    margin-left: 10px;
+}

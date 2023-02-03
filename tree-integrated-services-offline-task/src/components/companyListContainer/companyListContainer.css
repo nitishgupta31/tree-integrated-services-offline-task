@@ -1,0 +1,26 @@
+.addCompanybtn
+{
+    text-align: center;
+    margin: auto;
+    /* margin-right: 10px; */
+}
+.parentCompanies
+{
+    text-align: center;
+    margin: auto;
+    margin-left: 10px; 
+}
+.tableHeader
+{
+    display: flex;
+    padding: 10px;
+}
+  #add-company-button:hover {
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    outline: none;
+  }
+
+  #add-company-button:active {
+    outline: none;
+  }
