@@ -34,7 +34,7 @@ function ParentCompaniesList(props) {
         <>
             <SearchBar companies={companies} setFilteredCompanies={setFilteredCompanies} />
             <div style={{ height: "80vh", overflow: "auto" }}>
-                {rows}
+                {rows.length ? rows : "No records found"}
             </div>
         </>
     );
